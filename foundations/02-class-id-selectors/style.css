@@ -1,0 +1,19 @@
+.odd-number{
+    background-color: rgba(250,0,0,0.3); /* "light red-pink background" */
+    font-family: 'Verdana', 'DejaVu Sans,' sans-serif;
+}
+
+#secound-element{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.font-increase{
+    font-size: 24px;
+}
+
+#fourth-element{
+    background-color: hsl(120,50%,75%);
+    font-size:24px;
+    font-weight: bold;
+}
