@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.external-method{
+    color: white;
+    background-color: red;
+    margin: 10px 5px;
+    padding: 7px 0;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 700;
+}
