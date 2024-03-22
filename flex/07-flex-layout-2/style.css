@@ -80,10 +80,12 @@ body > .header{
   padding: 2rem;
   display: flex;
   flex-wrap: wrap;
+  align-items: flex-start;
   gap: 1rem;
 }
 .main-section > .cards > .card{
   flex-basis: 250px;
+  min-height: 250px;
   padding: 8px;
 }
 
